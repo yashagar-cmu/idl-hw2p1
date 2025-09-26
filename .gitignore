@@ -1,2 +1,3 @@
 .DS_Store
 autograder/ref_result/
+__pycache__/
